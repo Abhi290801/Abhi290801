@@ -1,6 +1,8 @@
-- 👋 Hi, I’m Abhishek Raj Kashyap
-- 👀 I’m interested in Web Devlopment , Machine Learning and Software Devlopment
-- 🌱 I’m currently in 3rd year,Ecse from kiit 
+- 👋 Hi, I’m @Abhishek 
+- 👀 I’m interested in  Front End Web Devlopment and Software Devlopment
+- 💻 I'm a ML and Embadded passonate
+- 🌱 I’m currently studing at Kalinga Institute of information Technology(KIIT)
+- 🎒I'm int the 3rd year of my B.Tech. , Electronics and Computer Science student
 - 📫 How to reach me abhishekrajkashyap29@gmail.com
 
 
