@@ -17,8 +17,8 @@
 
 ### 🔧 Tech Stack
 - **Languages:** JavaScript, Python, C, C++, Java  
-- **Frontend:** HTML, CSS, React, Bootstrap, Tailwind  
-- **Backend:** Node.js, Express  
+- **Frontend:** HTML, CSS, React, Bootstrap  
+- **Backend:** Django
 - **Tools & Platforms:** Git, GitHub, Arduino, VS Code, Figma  
 - **Learning:** TensorFlow, Embedded C, MongoDB  
 
